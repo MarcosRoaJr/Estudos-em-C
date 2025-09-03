@@ -1,1 +1,1 @@
-# Media-de-notas---C
+# Estudos de estruturação de dados com C
